@@ -56,8 +56,8 @@ First, create a virtual environment using Conda, clone this repository to your l
 ```bash
 conda create -n svggt python=3.10
 conda activate svggt
-git clone 
-cd svggt
+git clone https://github.com/Powertony102/S-VGGT.git
+cd S-VGGT
 pip install -r requirements.txt
 ```
 
