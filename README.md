@@ -16,6 +16,10 @@
 <p align="center">
   <sup>†</sup>Corresponding Author
 </p>
+
+<p align="center">
+  Contact: t330026083@mail.bnbu.edu.cn
+</p>
 </div>
 
 <p align="center">
