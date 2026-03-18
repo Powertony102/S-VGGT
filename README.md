@@ -15,7 +15,7 @@
   <sup>4</sup>Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science
 </p>
 <p align="center">
-  <a href="https://bnbu.edu.cn/"><img height="100" src="assets/logo_bnbu.png"> </a>
+  <a href="https://bnbu.edu.cn/"><img height="100" src="assets/logo_bnbu.svg"> </a>
   <a href="https://www.jlu.edu.cn/"><img height="80" src="assets/logo_jlu.webp"> </a>
   <a href="https://www.hkbu.edu.hk/en.html"><img height="100" src="assets/logo_hkbu.svg"> </a>
   <a href="https://irads.bnbu.edu.cn/"><img height="100" src="assets/logo_irads.png"> </a>
