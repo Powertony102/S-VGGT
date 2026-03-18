@@ -5,12 +5,13 @@
   <a href="/"><img src="https://img.shields.io/badge/Project_Page-SVGGT-yellow" alt="Project Page"></a>
 <p align="center">
   Xinze Li<sup>1</sup>, Pengxu Chen<sup>1,2</sup>, Yiyuan Wang<sup>1,3</sup>, 
-  Weifeng Su<sup>1</sup>, Wentao Cheng<sup>1†</sup>
+  Weifeng Su<sup>1,4</sup>, Wentao Cheng<sup>1†</sup>
 </p>
 <p align="center">
   <sup>1</sup>Beijing Normal University–Hong Kong Baptist University &nbsp;&nbsp;
   <sup>2</sup>Jilin University &nbsp;&nbsp;
-  <sup>3</sup>Hong Kong Baptist University
+  <sup>3</sup>Hong Kong Baptist University &nbsp;&nbsp;
+  <sup>4</sup>Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science
 </p>
 <p align="center">
   <sup>†</sup>Corresponding Author
