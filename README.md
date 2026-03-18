@@ -33,7 +33,7 @@ S-VGGT identifies structural redundancy across frames and reorganizes dense scen
 
 
 <p align="center">
-<img src="assets/svggt-main.jpg" alt="S-VGGT Method" width="60%">
+<img src="assets/svggt-main.jpg" alt="S-VGGT Method" width="90%">
 </p>
 
 
