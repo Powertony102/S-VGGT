@@ -28,7 +28,7 @@
 
 S-VGGT identifies structural redundancy across frames and reorganizes dense scenes into balanced subscenes with a shared reference frame, enabling highly efficient parallel 3D reconstruction with strong acceleration and no loss in fidelity.
 
-<img src="assets/SVGGT.pdf" alt="S-VGGT Overview" width="">
+<img src="assets/SVGGT.jpg" alt="S-VGGT Overview" width="">
 
 
 ## ⚙️ Environment Setup
