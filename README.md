@@ -17,7 +17,9 @@
 </p>
 </div>
 
-<img src="assets/SVGGT.jpg" alt="S-VGGT Overview" width="80%">
+<p align="center">
+<img src="assets/SVGGT.jpg" alt="S-VGGT Overview" width="60%">
+</p>
 
 ## 📰 News
 
@@ -30,7 +32,9 @@
 S-VGGT identifies structural redundancy across frames and reorganizes dense scenes into balanced subscenes with a shared reference frame, enabling highly efficient parallel 3D reconstruction with strong acceleration and no loss in fidelity.
 
 
-
+<p align="center">
+<img src="assets/svggt-main.jpg" alt="S-VGGT Method" width="60%">
+</p>
 
 
 ## ⚙️ Environment Setup
