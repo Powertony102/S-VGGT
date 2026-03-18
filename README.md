@@ -28,6 +28,7 @@
 
 S-VGGT identifies structural redundancy across frames and reorganizes dense scenes into balanced subscenes with a shared reference frame, enabling highly efficient parallel 3D reconstruction with strong acceleration and no loss in fidelity.
 
+<img src="assets/SVGGT.pdf" alt="S-VGGT Overview" width="">
 
 
 ## ⚙️ Environment Setup
@@ -89,9 +90,9 @@ python eval/eval_7andN.py --kf 3
 
 ## 🍺 Acknowledgements
 
-- Thanks to these great repositories: [VGGT](https://github.com/facebookresearch/vggt), [Dust3r](https://github.com/naver/dust3r),  [Fast3R](https://github.com/facebookresearch/fast3r), [CUT3R](https://github.com/CUT3R/CUT3R), [MV-DUSt3R+](https://github.com/facebookresearch/mvdust3r), [StreamVGGT](https://github.com/wzzheng/StreamVGGT), [VGGT-Long](https://github.com/DengKaiCQ/VGGT-Long),  [FastVGGT](https://github.com/mystorm16/FastVGGT)and many other inspiring works in the community.
+- Thanks to these great repositories: [VGGT](https://github.com/facebookresearch/vggt), [Dust3r](https://github.com/naver/dust3r),  [Fast3R](https://github.com/facebookresearch/fast3r), [CUT3R](https://github.com/CUT3R/CUT3R), [MV-DUSt3R+](https://github.com/facebookresearch/mvdust3r), [StreamVGGT](https://github.com/wzzheng/StreamVGGT), [VGGT-Long](https://github.com/DengKaiCQ/VGGT-Long),  [FastVGGT](https://github.com/mystorm16/FastVGGT) and many other inspiring works in the community.
 
-
+- Special thanks to our supervisor [Dr. Wentao Cheng](https://wtchengcv.github.io/) for consistent suggestions and efforts to this work.
 
 ## ⚖️ License
 See the [LICENSE](./LICENSE.txt) file for details about the license under which this code is made available.
