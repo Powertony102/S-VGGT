@@ -1,7 +1,7 @@
 <div align="center">
 <h2> S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models </h2>
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/arXiv-FastVGGT-red?logo=arxiv" alt="Paper PDF (Coming Soon)"></a>
+  <a href=""><img src="https://img.shields.io/badge/arXiv-S_VGGT-red?logo=arxiv" alt="Paper PDF (Coming Soon)"></a>
   <a href="/"><img src="https://img.shields.io/badge/Project_Page-SVGGT-yellow" alt="Project Page"></a>
 <p align="center">
   Xinze Li<sup>1</sup>, Pengxu Chen<sup>1,2</sup>, Yiyuan Wang<sup>1,3</sup>, 
@@ -15,7 +15,7 @@
 <p align="center">
   <sup>†</sup>Corresponding Author
 </p>
-
+</div>
 
 
 ## 📰 News
