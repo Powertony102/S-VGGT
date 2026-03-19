@@ -5,7 +5,7 @@
   <a href="https://github.com/Powertony102/S-VGGT"><img src="https://img.shields.io/badge/Project_Page-SVGGT-yellow" alt="Project Page"></a>
 </p>
 <p align="center">
-  Xinze Li<sup>1</sup>, Pengxu Chen<sup>1,2</sup>, Yiyuan Wang<sup>1,3</sup>, 
+  <a href="https://xinzelicv.github.io/">Xinze Li</a><sup>1</sup>, Pengxu Chen<sup>1,2</sup>, Yiyuan Wang<sup>1,3</sup>, 
   Weifeng Su<sup>1,4</sup>,<a href="https://wtchengcv.github.io/">Wentao Cheng</a><sup>1†</sup>
 </p>
 <p align="center">
