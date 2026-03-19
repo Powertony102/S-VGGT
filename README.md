@@ -1,8 +1,8 @@
 <div align="center">
 <h2> S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models </h2>
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/arXiv-S_VGGT-red?logo=arxiv" alt="Paper PDF (Coming Soon)"></a>
-  <a href="/"><img src="https://img.shields.io/badge/Project_Page-SVGGT-yellow" alt="Project Page"></a>
+  <a href="https://arxiv.org/abs/2603.17625"><img src="https://img.shields.io/badge/arXiv-S_VGGT-red?logo=arxiv" alt="Paper PDF (Coming Soon)"></a>
+  <a href="https://github.com/Powertony102/S-VGGT"><img src="https://img.shields.io/badge/Project_Page-SVGGT-yellow" alt="Project Page"></a>
 </p>
 <p align="center">
   Xinze Li<sup>1</sup>, Pengxu Chen<sup>1,2</sup>, Yiyuan Wang<sup>1,3</sup>, 
@@ -35,7 +35,9 @@
 
 ## 📰 News
 
-- [Mar 18, 2026] Code Release
+- [Mar 19, 2026] Paper Released on Arxiv
+- [Mar 18, 2026] Code Released
+- [Mar 17, 2026] 🎉 S-VGGT has been accepted to ICME 2026.
 
 
 
